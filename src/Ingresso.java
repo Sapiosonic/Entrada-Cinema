@@ -38,6 +38,5 @@ public class Ingresso {
             "Valor: %.2f\n"+
             "Total: %.2f\n",getFilme(),getQtde(),getValor(),calcularTotal()
         );
-    }
-    
+    }   
 }
